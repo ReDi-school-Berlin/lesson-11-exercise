@@ -132,7 +132,7 @@ tuple1 = ("Orange", [10, 20, 30], (5, 15, 25))
 # Exercise 10
 # How many times does the letter 'b' appear in the string below
 # hint: use the built in count() method to calculate the number of times a specified element appears.
- numbers = "Betty bought a butter but the butter was bitter so Betty bought a butter to make the bitter butter better"
+ sentence = "Betty bought a butter but the butter was bitter so Betty bought a butter to make the bitter butter better"
 
   
   
